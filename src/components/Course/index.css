@@ -1,0 +1,20 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  margin: 20px;
+}
+
+.course-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.course-para {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
